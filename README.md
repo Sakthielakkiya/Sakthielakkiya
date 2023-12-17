@@ -17,7 +17,7 @@
 <br><br>
   <p>Gender:
 <input type="radio"id="Male"value="Male">
-<label for="Male">Male</label><BR>
+<label for="Male">Male</label>
 <input type="radio"id="Female"value="Female">
 <label for="Female">Female</label></p>
 <BR><BR>
