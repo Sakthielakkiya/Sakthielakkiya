@@ -7,7 +7,7 @@
 <label for="fname">First Name:</label>
 <input type="text"id="fname"name="fname"><br><br>
 <lable for="lname">Last Name:</label>
-<input type="text"id="lname"name="lname"><br>
+<input type="text"id="lname"name="lname"><br><BR>
 <label for="mobile">Mobile:</label>
 <input type="number"id="mobile"name="mobile"required><br><br>
 <label for="email">Email:</label>
